@@ -10,9 +10,9 @@ https://github.com/dnzcany/PaymentUICreditCardScreen/assets/94561596/78a2d53d-3f
 
 # :crocodile: Use With Different Desings,Gradients
 <p float="left">
-  <img src="https://i.hizliresim.com/rjiwwhz.png" width="100" />
-  <img src="https://i.hizliresim.com/1u9wft4.png" width="100" /> 
-  <img src="https://i.hizliresim.com/hl6eleu.png" width="100" />
+  <img src="https://i.hizliresim.com/rjiwwhz.png" width="70" />
+  <img src="https://i.hizliresim.com/1u9wft4.png" width="70" /> 
+  <img src="https://i.hizliresim.com/hl6eleu.png" width="70" />
 </p>
 
 
