@@ -5,7 +5,7 @@ A simple UI in Android Kotlin to input and validate credit card in one screen wi
 
 # :clapper: Preview
 
-//github.com/dnzcany/PaymentUICreditCardScreen/assets/94561596/8bfd5640-c4bf-4a30-bf70-a4403e181861
+github.com/dnzcany/PaymentUICreditCardScreen/assets/94561596/8bfd5640-c4bf-4a30-bf70-a4403e181861
 
 # :crocodile: Use With Different Desings,Gradients
 ![photo](https://i.hizliresim.com/rjiwwhz.png) ![photo](https://i.hizliresim.com/1u9wft4.png) ![photo](https://i.hizliresim.com/hl6eleu.png)
