@@ -9,10 +9,11 @@ A simple UI in Android Kotlin to input and validate credit card in one screen wi
 https://github.com/dnzcany/PaymentUICreditCardScreen/assets/94561596/78a2d53d-3f5e-41da-9962-ee86d0f32ceb
 
 # :crocodile: Use With Different Desings,Gradients
- <p align="center">
-  <img src="https://i.hizliresim.com/rjiwwhz.png" alt="your alt text">
+<p float="left">
+  <img src="https://i.hizliresim.com/rjiwwhz.png" width="100" />
+  <img src="https://i.hizliresim.com/1u9wft4.png" width="100" /> 
+  <img src="https://i.hizliresim.com/hl6eleu.png" width="100" />
 </p>
- ![photo](https://i.hizliresim.com/1u9wft4.png) ![photo](https://i.hizliresim.com/hl6eleu.png)
 
 
 
