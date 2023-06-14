@@ -6,9 +6,8 @@ A simple UI in Android Kotlin to input and validate credit card in one screen wi
 # :clapper: Preview
 
 # :crocodile: Use With Different Desings,Gradients
-![photo](https://i.hizliresim.com/rjiwwhz.png)
-![photo](https://i.hizliresim.com/1u9wft4.png)
-![photo](https://i.hizliresim.com/hl6eleu.png)
+![photo](https://i.hizliresim.com/rjiwwhz.png) ![photo](https://i.hizliresim.com/1u9wft4.png) ![photo](https://i.hizliresim.com/hl6eleu.png)
+
 
 
 # :pray: How To Using With Different Desings?
