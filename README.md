@@ -10,7 +10,7 @@ A simple UI in Android Kotlin to input and validate credit card in one screen wi
 
 
 
-# :pray: How To Using With Different Desings?
+# :thinking: How To Using With Different Desings?
 - Go activity_main.xml file
 - Change LinearLayout Android Background  
                                                           
@@ -28,7 +28,7 @@ A simple UI in Android Kotlin to input and validate credit card in one screen wi
 - Download and open the project in Android Studio
 - Connect your Android phone or use the emulator to start the application
 
-## :copyright: Lisans
+## :copyright: License
 
 MIT License
 
