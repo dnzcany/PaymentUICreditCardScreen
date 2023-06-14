@@ -19,7 +19,11 @@ https://github.com/dnzcany/PaymentUICreditCardScreen/assets/94561596/78a2d53d-3f
 
 # :thinking: How To Using With Different Desings?
 - Go activity_main.xml file
-- Change LinearLayout Android Background  
+- Change LinearLayout Android Background
+- <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#616568">          To    android:background="@drawable/gradients" for example
                                                           
 
 
